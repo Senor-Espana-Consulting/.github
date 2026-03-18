@@ -52,7 +52,7 @@ Each demo is:
 - built with real use cases in mind
 
 ### 🔥 Featured
-- **AI YouTube Download Manager**  
+- **AI YouTube Media Manager**
   A containerized media workflow system demonstrating queue-based downloads, structured storage, and automation-ready architecture.
 
 > These repositories are designed to demonstrate capability—not expose full proprietary implementations.
@@ -104,7 +104,7 @@ We build custom systems like the ones shown in this organization for:
 If you're looking to implement AI or automation into your workflows:
 
 👉 Open an issue in one of the repositories  
-👉 Or reach out to **Señor España Consulting LLC**
+👉 Or reach out to **Señor España Consulting LLC** ( info@seopsai.com )
 
 ---
 
